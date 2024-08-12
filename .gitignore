@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+alphazero-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints
+checkpoints/
+
+# Literature review
+lit_rev/
+
+# Ignore dataset and log files
+data/
+logs/

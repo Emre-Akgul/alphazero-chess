@@ -1,1 +1,1 @@
-# AlphaZero
+# alphazero
